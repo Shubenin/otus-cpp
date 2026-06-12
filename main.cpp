@@ -3,7 +3,7 @@
 #include <iostream>
 
 int main(int, char **) {
-	std::cout << "My app version: " << version() << std::endl;
+	std::cout << "My application version: " << version() << std::endl;
 	std::cout << "Hello, world!" << std::endl;
 	return 0;
 }
